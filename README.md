@@ -1,4 +1,4 @@
-# Desafio Automação de Sites com PyAutoGUI
+# PyAutoGUI - Bot de Automação de Sites
 
 
 1. Navegue até o site [https://cursoautomacao.netlify.app/](https://cursoautomacao.netlify.app/).
